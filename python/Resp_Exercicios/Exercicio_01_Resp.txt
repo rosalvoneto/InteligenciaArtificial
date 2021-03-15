@@ -1,0 +1,13 @@
+def soma(x, y):
+    return x + y
+    
+def menos(x, y):
+    return x - y 
+    
+def multi(x, y):
+    return x * y
+    
+def div(x, y):
+    return x / y
+    
+    

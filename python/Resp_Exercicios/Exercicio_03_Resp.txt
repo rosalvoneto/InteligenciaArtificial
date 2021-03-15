@@ -1,0 +1,8 @@
+def getPalavrasCount(path):
+    file_content = open(path).read()
+    # Transformando em uma lista de strings
+    lines = file_content.split()
+    result = {}
+    for p in lines:
+        result[p] = result.get(p, 0) + 1
+    return result

@@ -1,0 +1,51 @@
+----------------------------------
+Questão 1)
+
+def num_par(l):
+    result = []
+    for n in l:
+        if n % 2 ==0:
+            result.append(n)
+    return result
+    
+----------------------------------
+Questão 2)
+
+def media(l):
+    result = 0
+    for n in l:
+        result = result + n
+    result = result / len(l)
+    return result 
+
+
+----------------------------------
+Questão 3)
+    
+def intersecao(l1, l2):
+    result = []
+    for x in l1: 
+        if x in l2:
+            result.append(x)
+    return result
+    
+def intersecao(l1, l2):
+    return [x for x in l1 if x in l2]
+
+
+----------------------------------
+Questão 4)
+
+def ordena(l):
+    result = []    
+    i  = 0
+    size = len(l)    
+    while i < size:
+        vl = min(l)
+        result.append(vl)
+        l.remove(vl)
+        i+=1
+    return result
+
+----------------------------------    
+           
