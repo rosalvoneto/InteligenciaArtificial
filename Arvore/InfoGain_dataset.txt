@@ -1,0 +1,15 @@
+Sexo,Classe
+Masculino,BOM
+Feminino,BOM
+Masculino,MAU
+Feminino,BOM
+Feminino,MAU
+Masculino,BOM
+Masculino,BOM
+Masculino,MAU
+Feminino,BOM
+Masculino,MAU
+Feminino,BOM
+Feminino,BOM
+Masculino,MAU
+Feminino,BOM
