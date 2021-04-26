@@ -13,3 +13,6 @@ Contém uma implementação para demonstração do algoritmo Hill Climbing.
 
 ## Simulated Annealing
 Contém uma implementação para demonstração do algoritmo Simulated Annealing.
+
+## Arvore
+Contém implementações para demonstração da Entropia e do Ganho de Informação.
